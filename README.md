@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopway
 
 A full-stack React and Node.js/Express application for e-commerce.
@@ -114,3 +115,6 @@ npm start
 ## License
 
 This project is licensed under the MIT License. 
+=======
+# project1.0
+>>>>>>> 25a14827d9039e51ab8958c6b62e4ee610ad7e68
